@@ -8,7 +8,6 @@ I learn by shipping. I build full-stack and AI-assisted products, and I'm workin
 
 ### 🚀 What I'm building
 
-- **[ChessMentor AI](https://github.com/tokha-t/chess.prt)** — a deployed full-stack chess-learning platform for beginners: minimax AI opponents, rule-based post-game coaching, real-time online multiplayer, auth, daily missions, and leaderboards. **[Live demo](https://chessmentor-ai.netlify.app/)** · React + Supabase.
 - **Grivo** *(in progress)* — an AI-assisted routing app that finds calmer, greener, quieter walking routes ("relax score") from geospatial data, not just the fastest path. Python + ML.
 
 ### 🛠️ Tech
